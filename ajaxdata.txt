@@ -1,0 +1,8 @@
+Rich Internet Application Technology
+AJAX is the most viable Rich Internet Application
+(RIA) technology so far. It is getting tremendous
+industry momentum and several tool kit and
+frameworks are emerging. But at the same time,
+AJAX has browser incompatibility and i
+ is supported by JavaScript,
+which is hard to maintain and debug.
