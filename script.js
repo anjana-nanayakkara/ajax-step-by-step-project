@@ -18,7 +18,7 @@ getData.addEventListener('click',()=>{
             console.log(this.responseText);
         }
         else{
-            console.log("page not found");
+            console.log("not found");
         }
         
     }
