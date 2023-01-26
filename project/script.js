@@ -36,7 +36,8 @@ getData.addEventListener('click',()=>{
 
         }
         else{
-          console.log("api link not accecible")
+          console.log("api link not accecible");
+          console.log("api link not accecible");
         }
     }
     xhr.send();
